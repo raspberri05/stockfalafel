@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "apidoc": "^0.20.1",
-    "apidoc-markdown": "^5.2.5",
+    "apidoc-markdown": "^7.2.3",
     "babel-eslint": "^10.1.0",
     "babel-jest": "^25.5.1",
     "cross-env": "^7.0.3",
